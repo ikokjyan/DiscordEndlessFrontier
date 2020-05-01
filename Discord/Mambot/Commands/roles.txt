@@ -1,0 +1,18 @@
+.acr "!roles" %user% you used the command `!roles`.
+
+__**For guild application and ToT help**__
+You need to get a server role (1/6/12/17/20)
+To check your server: go to options in the game and check the number in the top-right between '(' and ')' - my info
+Go to #commands  and key in `.iam server xx` xx is your server number
+
+Then apply at your respective channels:
+#s1_guild_recruitment 
+#s6_guild_recruitment 
+#s12_guild_recruitment 
+#s17_guild_recruitment 
+#s20_guild_recruitment 
+
+__**To do before asking questions (KL100 and above)**__
+Set your stage role by going to #commands and typing `.iam stage xx`
+Early stages are in denominations of 5000s, (eg. 10000, 15000, 20000)
+Later stages are in denominations of 1000s, (eg. 60000, 61000, 62000)
